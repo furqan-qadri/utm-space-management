@@ -1,2 +1,2 @@
 # utm-space-management
-An website to let UTM lecturers to book spaces for lecturers, events etc
+An website for UTM lecturers to book reserve rooms for lectures, events etc
